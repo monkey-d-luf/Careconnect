@@ -4,7 +4,7 @@ import { FaMapMarkerAlt } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import childrenImg from "../assets/images/childrenImg.png";
 import elderlyImg from "../assets/images/elderlyImg.png";
-import youthCenterImg from "../assets/images/youthcenterImg.png";
+import youthCenterImg from "../assets/images/youthCenterImg.png";
 import educationImg from "../assets/images/educationImg.png";
 import medicalImg from "../assets/images/medicalImg.png";
 
